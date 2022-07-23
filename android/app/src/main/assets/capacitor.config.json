@@ -1,0 +1,6 @@
+{
+	"appId": "com.sharedlists.app",
+	"appName": "lists-share-spa",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
